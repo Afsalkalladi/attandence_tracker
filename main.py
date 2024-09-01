@@ -1,1 +1,1 @@
-product = "dice"
+new = "abc"
