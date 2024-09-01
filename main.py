@@ -1,0 +1,3 @@
+new = "abc"
+
+product = "dice"
